@@ -1,0 +1,83 @@
+[
+    {
+        "name": "embers",
+        "min_stat": 15.0,
+        "max_stat": 22.5,
+        "crit_chance": 2.5,
+        "value": 100,
+        "item_type": 0,
+        "rank": 4
+    }, {
+        "name": "flames",
+        "min_stat": 25.0,
+        "max_stat": 32.5,
+        "crit_chance": 3.5,
+        "value": 175,
+        "item_type": 0,
+        "rank": 5
+    }, {
+        "name": "frostbite",
+        "min_stat": 19.5,
+        "max_stat": 38.0,
+        "crit_chance": 2.75,
+        "value": 150,
+        "item_type": 0,
+        "rank": 5
+    }, {
+        "name": "shock",
+        "min_stat": 28.5,
+        "max_stat": 35.5,
+        "crit_chance": 4.75,
+        "value": 200,
+        "item_type": 0,
+        "rank": 5
+    }, {
+        "name": "fire ball",
+        "min_stat": 42.5,
+        "max_stat": 75.0,
+        "crit_chance": 7.5,
+        "value": 260,
+        "item_type": 0,
+        "rank": 6
+    }, {
+        "name": "ice spike",
+        "min_stat": 35.0,
+        "max_stat": 82.5,
+        "crit_chance": 4.0,
+        "value": 225,
+        "item_type": 0,
+        "rank": 6
+    }, {
+        "name": "lightning strike",
+        "min_stat": 46.0,
+        "max_stat": 78.5,
+        "crit_chance": 9.5,
+        "value": 295,
+        "item_type": 0,
+        "rank": 6
+    }, {
+        "name": "inferno",
+        "min_stat": 87.5,
+        "max_stat": 212.5,
+        "crit_chance": 10.5,
+        "value": 390,
+        "item_type": 0,
+        "rank": 7
+    }, {
+        "name": "blizzard",
+        "min_stat": 75.0,
+        "max_stat": 225.0,
+        "crit_chance": 8.75,
+        "value": 300,
+        "item_type": 0,
+        "rank": 7
+    }, {
+        "name": "thunder storm",
+        "min_stat": 95.0,
+        "max_stat": 219.5,
+        "crit_chance": 14.25,
+        "value": 480,
+        "item_type": 0,
+        "rank": 7
+    }
+]

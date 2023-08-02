@@ -1,0 +1,28 @@
+[
+    {
+        "name": "squire",
+        "health": 180,
+        "base_damage": 37.5,
+        "weapon": "rusty axe",
+        "shield": "rusty tower shield",
+        "armour": "studded leather armour",
+        "rank": 2
+    },
+    {
+        "name": "ranger",
+        "health": 150,
+        "base_damage": 45,
+        "weapon": "steel sword",
+        "shield": "hide armour",
+        "armour": "iron mail armour",
+        "rank": 4
+    }, {
+        "name": "priest",
+        "health": 240,
+        "base_damage": 25,
+        "weapon": "meteorite mace",
+        "shield": "large diamond buckler",
+        "armour": "enchanted meteorite mail armour",
+        "rank": 6
+    }
+]

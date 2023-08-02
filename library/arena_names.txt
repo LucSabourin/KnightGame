@@ -1,0 +1,20 @@
+swamp
+field
+forest
+shoreline
+cave
+plains
+hills
+mountains
+abandoned village
+abandoned temple
+abandoned hamlet
+abandoned fort
+ruined village
+ruined temple
+ruined hamlet
+ruined fort
+burnt village
+burnt temple
+burnt hamlet
+burnt fort

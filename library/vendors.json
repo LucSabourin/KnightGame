@@ -1,0 +1,15 @@
+[
+    {
+        "type": "chef",
+        "gold": 225,
+        "rank": 0
+    }, {
+        "type": "blacksmith",
+        "gold": 350,
+        "rank": 2
+    }, {
+        "type": "mage",
+        "gold": 750,
+        "rank": 4
+    }
+]

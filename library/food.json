@@ -1,0 +1,107 @@
+[
+    {
+        "name": "piece of fruit",
+        "min_stat": 2.0,
+        "max_stat": 4.5,
+        "crit_chance": 0.5,
+        "value": 1,
+        "item_type": 0,
+        "rank": 0
+    }, {
+        "name": "slice of bread",
+        "min_stat": 3.0,
+        "max_stat": 5.6,
+        "crit_chance": 0.75,
+        "value": 2,
+        "item_type": 0,
+        "rank": 0
+    }, {
+        "name": "root vegetable",
+        "min_stat": 4.0,
+        "max_stat": 7.8,
+        "crit_chance": 1.25,
+        "value": 4,
+        "item_type": 0,
+        "rank": 1
+    }, {
+        "name": "cheap wine",
+        "min_stat": 5.6,
+        "max_stat": 12.0,
+        "crit_chance": 3.25,
+        "value": 20,
+        "item_type": 0,
+        "rank": 2
+    }, {
+        "name": "loaf of bread",
+        "min_stat": 8.0,
+        "max_stat": 15.0,
+        "crit_chance": 2.75,
+        "value": 15,
+        "item_type": 0,
+        "rank": 2
+    }, {
+        "name": "fruit salad",
+        "min_stat": 12.25,
+        "max_stat": 18.5,
+        "crit_chance": 4.5,
+        "value": 30,
+        "item_type": 0,
+        "rank": 3
+    }, {
+        "name": "wing of chicken",
+        "min_stat": 6.4,
+        "max_stat": 16.9,
+        "crit_chance": 3.75,
+        "value": 18,
+        "item_type": 0,
+        "rank": 4
+    }, {
+        "name": "mug of ale",
+        "min_stat": 8.9,
+        "max_stat": 21.2,
+        "crit_chance": 4.65,
+        "value": 25,
+        "item_type": 0,
+        "rank": 5
+    }, {
+        "name": "rib of pork",
+        "min_stat": 12.5,
+        "max_stat": 25.6,
+        "crit_chance": 7.25,
+        "value": 30,
+        "item_type": 0,
+        "rank": 5
+    }, {
+        "name": "cob salad",
+        "min_stat": 24.0,
+        "max_stat": 32.0,
+        "crit_chance": 8.25,
+        "value": 56,
+        "item_type": 0,
+        "rank": 6
+    }, {
+        "name": "leg of lamb",
+        "min_stat": 19.8,
+        "max_stat": 35.2,
+        "crit_chance": 6.25,
+        "value": 45,
+        "item_type": 0,
+        "rank": 6
+    }, {
+        "name": "horn of mead",
+        "min_stat": 15.6,
+        "max_stat": 39.6,
+        "crit_chance": 12.5,
+        "value": 60,
+        "item_type": 0,
+        "rank": 7
+    }, {
+        "name": "fancy feast",
+        "min_stat": 42.0,
+        "max_stat": 64.0,
+        "crit_chance": 14.95,
+        "value": 125,
+        "item_type": 0,
+        "rank": 7
+    }
+]

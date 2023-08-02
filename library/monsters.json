@@ -1,0 +1,103 @@
+[
+    {
+        "name": "wolf",
+        "health": 10,
+        "gold": 0,
+        "base_damage": 2,
+        "loot_chance": 10,
+        "weapon": null,
+        "shield": null,
+        "armour": null,
+        "rank": 0
+    }, {
+        "name": "bandit",
+        "health": 50,
+        "gold": 20,
+        "base_damage": 5,
+        "loot_chance": 25,
+        "weapon": "rusty sword",
+        "shield": "small rusty buckler",
+        "armour": "hide armour",
+        "rank": 1
+    }, {
+        "name": "goblin",
+        "health": 60,
+        "gold": 75,
+        "base_damage": 6,
+        "loot_chance": 10,
+        "weapon": "iron mace",
+        "shield": "iron tower shield",
+        "armour": "iron plate armour",
+        "rank": 2
+    }, {
+        "name": "spider",
+        "health": 75,
+        "gold": 0,
+        "base_damage": 30,
+        "loot_chance": 25,
+        "weapon": null,
+        "shield": null,
+        "armour": null,
+        "rank": 3
+    }, {
+        "name": "skeleton",
+        "health": 100,
+        "gold": 25,
+        "base_damage": 10,
+        "loot_chance": 37.5,
+        "weapon": "steel axe",
+        "shield": "steel buckler",
+        "armour": "steel mail armour",
+        "rank": 4
+    }, {
+        "name": "centaur",
+        "health": 150,
+        "gold": 150,
+        "base_damage": 15,
+        "loot_chance": 25,
+        "weapon": "steel sword",
+        "shield": null,
+        "armour": null,
+        "rank": 5
+    }, {
+        "name": "wraith",
+        "health": 175,
+        "gold": 0,
+        "base_damage": 50,
+        "loot_chance": 50,
+        "weapon": null,
+        "shield": null,
+        "armour": null,
+        "rank": 6
+    }, {
+        "name": "minatour",
+        "health": 250,
+        "gold": 75,
+        "base_damage": 25,
+        "loot_chance": 37.5,
+        "weapon": "meteorite axe",
+        "shield": "diamond tower shield",
+        "armour": null,
+        "rank": 7
+    }, {
+        "name": "demon",
+        "health": 375,
+        "gold": 450,
+        "base_damage": 37.5,
+        "loot_chance": 75,
+        "weapon": "enchanted meteorite mace",
+        "shield": null,
+        "armour": "enchanted meteorite plate armour",
+        "rank": 8
+    }, {
+        "name": "merihem",
+        "health": 2500,
+        "gold": 9999,
+        "base_damage": 350,
+        "loot_chance": 100,
+        "weapon": null,
+        "shield": null,
+        "armour": null,
+        "rank": 9
+    }
+]
